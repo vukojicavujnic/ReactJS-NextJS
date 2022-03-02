@@ -2,6 +2,8 @@
 
 <br> https://dmarket.io <br/>
 
+In this Repository, I used following language
+
 Frontend: ReactJS, NextJS
 Backend: Python/Django, PostgreSQL
 Libraries: ThreeJS3, WebGL
