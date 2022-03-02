@@ -2,7 +2,7 @@
 
 <br> https://dmarket.io <br/>
 
-In this Repository, I used following language
+In this Repository, I used following Stacks
 
 Frontend: ReactJS, NextJS
 Backend: Python/Django, PostgreSQL
